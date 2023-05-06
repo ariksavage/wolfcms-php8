@@ -6,3 +6,6 @@
 web/images
 web/public
 web/config.php
+
+*.sublime-project
+*.sublime-workspace
