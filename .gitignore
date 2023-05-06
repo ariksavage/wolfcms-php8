@@ -1,0 +1,8 @@
+.DS_Store
+
+.ddev
+!.ddev/config.yaml
+
+web/images
+web/public
+web/config.php
